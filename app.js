@@ -5,7 +5,9 @@
                     window.location.href="blank.html";
             }else if(test.value == "A11754006"){
                window.location.href="samim.html"
-            else{
+            }else if (test.value == "12345"){
+                window.location.href="blank.html")
+            }else{
                  alert("invalid Passport")
             }
    
