@@ -7,6 +7,8 @@
                     window.location.href="samim.html"
             }else if (test.value=="EJ0392953"){
                     window.location.href="dulal.html"
+            }else if (test.value == "EF0830922"){
+                    window.location.href="khorshed.html"
             }
             else{
                  alert("invalid Passport")
